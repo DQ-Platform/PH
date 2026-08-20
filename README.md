@@ -71,7 +71,7 @@ PH-(DQ yeni suallar)-2026
             <a class="btn btn-download" href="Pənah Hüseynov(DQ yeni suallar)-2026.pdf" download="P_H_DQ_Yeni_Suallar_2026.pdf">📥</a>
         </div>
         
-        <div class="section-title">SOSİAL ŞƏBƏKƏ</div>
+        <div class="section-title">Pənah Hüseynov</div>
     </div>
 </body>
 </html>
